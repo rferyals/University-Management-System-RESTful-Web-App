@@ -1,3 +1,7 @@
+University Management System – RESTful Web App
+– Python (Flask) & PostgreSQL
+Co-developed a full-stack university management system with RESTful architecture. Implemented student/staff registration, course and activity enrollment, grade submission, and financial tracking. Designed and managed a relational database in PostgreSQL using SQL and PL/pgSQL, applying transactional logic and access control. Developed and tested secure endpoints with JWT authentication using Postman.
+
 O projeto consiste no desenvolvimento de um sistema de gestão universitária
 concebido para gerir os principais processos académicos e extracurriculares no
 âmbito de uma universidade. O sistema é implementado como uma aplicação de
